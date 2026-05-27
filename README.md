@@ -53,15 +53,15 @@
 
 **方式一（推荐）**：先把仓库 clone 到本地，然后告诉 Codex 本地路径：
 ```
-git clone https://github.com/jiaziye20-tech/claude-vision-skill.git
+git clone https://github.com/jiaziye20-tech/codex-vision-skill.git
 ```
 
 然后在 Codex 里说：
-> 读一下 claude-vision-skill/README.md，帮我配置识图
+> 读一下 codex-vision-skill/README.md，帮我配置识图
 
 **方式二**：直接发 GitHub 链接（DeepSeek 等第三方模型可能无法访问 GitHub）：
 
-> 按 https://github.com/jiaziye20-tech/claude-vision-skill 的 README 帮我配置识图
+> 按 https://github.com/jiaziye20-tech/codex-vision-skill 的 README 帮我配置识图
 
 AI 会问你用什么服务、Key 是什么，然后自动配好。
 
