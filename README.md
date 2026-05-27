@@ -1,4 +1,4 @@
-﻿# Vision Skill
+﻿# Codex Vision Skill
 
 让没有识图能力的模型获得识图能力——把图片发给有 vision 的模型，用文字描述回来。
 
