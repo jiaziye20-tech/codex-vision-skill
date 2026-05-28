@@ -12,8 +12,8 @@
 
 问用户：
 1. 想用哪个识图服务？
-   - **推荐千问**（`qwen3.5-omni-plus` / `qwen-vl-max`）：阿里云百炼，新用户 100 万 token 免费，约 0.02 元/次
-   - 也可以用 OpenAI（`gpt-4o-mini`）或其他支持 OpenAI 兼容格式的 vision 模型
+   - **推荐千问**：阿里云百炼，新用户 100 万 token 免费，约 0.02 元/次
+   - 也可以用 OpenAI 或其他支持 OpenAI 兼容格式的 vision 模型
 2. API Key 是什么？没申请的话引导去对应平台注册
 3. （如果用非千问服务）API Base URL 是什么？
 
